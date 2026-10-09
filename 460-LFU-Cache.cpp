@@ -9,7 +9,7 @@ struct Node
     {
         this->key = key;
         this->value = value;
-        prev = next = nullptr;
+       
         cnt = 1;
     }
 };
